@@ -1,0 +1,29 @@
+@font-face {
+	font-family: alagard;
+	src: url(./assets/alagard.ttf);
+}
+
+body {
+	margin: 0; 
+	padding: 0;
+	background: #eee;
+}
+
+
+h1 {
+	font-family: alagard;
+	font-size: 36px;
+}
+
+h2 {
+	font-family: alagard;
+	font-size: 18;
+}
+
+#image {
+	width: 100%;
+}
+
+.icon {
+	width: 35px;
+}
